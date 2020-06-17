@@ -1,6 +1,6 @@
-// This script copies a text into the clipboard
-// You can call it on buttons, links, texts or whatever you want 
-// All you need to change is the "texttobecopied" camp 
+// Use this to copy a text into the clipboard
+// You can call this function on buttons, links, texts or whatever you want 
+// Simply change the text "texttobecopied" and be happy :D
 // sadrisco 2020
 
 	function copyToClipboard(copying) {
