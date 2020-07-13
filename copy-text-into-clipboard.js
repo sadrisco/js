@@ -1,7 +1,6 @@
 // Use this to copy a text into the clipboard
 // You can call this function on buttons, links, texts or whatever you want 
 // Simply change the text "texttobecopied" and be happy :D
-// sadrisco 2020
 
 	function copyToClipboard(copying) {
 		var $temp = jQuery("<input>");
